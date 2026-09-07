@@ -54,6 +54,8 @@ The analysis uses data collected through LimeSurvey and participant recruitment 
 
 The conditional logit analysis examines how the different characteristics of anti-cartel policies influence the probability that a policy configuration is selected.
 
+![Estimated effects of policy variables on choice probability](Figures/figure_odds_ratios.png)
+
 Selected results and visualisations from this project are also presented in my professional portfolio.
 
 ## Author
